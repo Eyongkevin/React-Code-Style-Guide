@@ -7,7 +7,7 @@ As a team, we need to make sure our code is easy to read, understand, and modify
 ## Table of contents
 
 1. Bacis Rules
-    - Import
+    - [Import](#import)
     - Naming
     - Alignment
     - Declaration
