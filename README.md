@@ -1,4 +1,4 @@
-# Adipster React Code Style Guide 
+# React Code Style Guide 
 
 As a team, we need to make sure our code is easy to read, understand, and modify. To achieve that, we put in place this guide which should be followed strictly.
 
